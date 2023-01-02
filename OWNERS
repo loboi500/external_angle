@@ -1,16 +1,3 @@
-# See https://chromium.googlesource.com/angle/angle/+/master/doc/ContributingCode.md#selecting-reviewers for more info
-cnorthrop@google.com
-courtneygo@google.com
-geofflang@google.com
-ianelliott@google.com
-jmadill@google.com
-syoussefi@google.com
-timvp@google.com
-tobine@google.com
-ynovikov@google.com
-timvp@google.com
-
-per-file AUTHORS=*
-per-file CONTRIBUTORS=*
-per-file DEPS=*
-per-file WATCHLISTS=*
+version https://git-lfs.github.com/spec/v1
+oid sha256:497dbd02135fd594e790bb374fb87ce74b0bf7c240603b23c9b5ff5d93de76b6
+size 399

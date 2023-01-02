@@ -11,7 +11,36 @@
 *.gni                                      eol=lf
 src/compiler/preprocessor/preprocessor_*.* eol=lf
 src/compiler/translator/glslang_*.*        eol=lf
-
 # Git conflict markers in the json file break the code generator.
 # Using a binary merge strategy forces conflicts without changing file contents.
 scripts/code_generation_hashes/*.json merge=binary
+Android.bp filter=lfs diff=lfs merge=lfs -text
+OWNERS filter=lfs diff=lfs merge=lfs -text
+scripts filter=lfs diff=lfs merge=lfs -text
+AUTHORS filter=lfs diff=lfs merge=lfs -text
+include filter=lfs diff=lfs merge=lfs -text
+PRESUBMIT.py filter=lfs diff=lfs merge=lfs -text
+tools filter=lfs diff=lfs merge=lfs -text
+gni filter=lfs diff=lfs merge=lfs -text
+infra filter=lfs diff=lfs merge=lfs -text
+samples filter=lfs diff=lfs merge=lfs -text
+third_party filter=lfs diff=lfs merge=lfs -text
+dotfile_settings.gni filter=lfs diff=lfs merge=lfs -text
+extensions filter=lfs diff=lfs merge=lfs -text
+README.chromium filter=lfs diff=lfs merge=lfs -text
+README.md filter=lfs diff=lfs merge=lfs -text
+codereview.settings filter=lfs diff=lfs merge=lfs -text
+METADATA filter=lfs diff=lfs merge=lfs -text
+doc filter=lfs diff=lfs merge=lfs -text
+BUILD.gn filter=lfs diff=lfs merge=lfs -text
+DEPS filter=lfs diff=lfs merge=lfs -text
+LICENSE filter=lfs diff=lfs merge=lfs -text
+OWNERS.android filter=lfs diff=lfs merge=lfs -text
+util filter=lfs diff=lfs merge=lfs -text
+additional_readme_paths.json filter=lfs diff=lfs merge=lfs -text
+android filter=lfs diff=lfs merge=lfs -text
+build_overrides filter=lfs diff=lfs merge=lfs -text
+CONTRIBUTORS filter=lfs diff=lfs merge=lfs -text
+DIR_METADATA filter=lfs diff=lfs merge=lfs -text
+src filter=lfs diff=lfs merge=lfs -text
+WATCHLISTS filter=lfs diff=lfs merge=lfs -text

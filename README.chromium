@@ -1,12 +1,3 @@
-Name: ANGLE
-URL: http://angleproject.org
-Version: unknown
-License: BSD
-License File: LICENSE
-
-Description:
-The goal of ANGLE is to allow users of multiple operating systems
-to seamlessly run WebGL and other OpenGL ES content by translating
-OpenGL ES API calls to one of the hardware-supported APIs available
-for that platform.
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:eac24e72f33d5b0a9ed921c78b5e97a8ca808c00a67a1d6b243ede598e596aa0
+size 328

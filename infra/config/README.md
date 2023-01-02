@@ -1,9 +1,3 @@
-## Configuration files for chrome-infra services.
-
-The project configuration is maintained in [main.star](main.star). To regenerate the config
-run `lucicfg generate main.star`. See [online docs][docs] for `lucicfg`.
-
-Currently active version can be checked at
-https://luci-config.appspot.com/#/projects/angle .
-
-[docs]: https://chromium.googlesource.com/infra/luci/luci-go/+/refs/heads/master/lucicfg/doc/README.md
+version https://git-lfs.github.com/spec/v1
+oid sha256:8a5474af8f1ea239f35d9ddfe7c81b0092dda4479a17120c29e1953468c66cf9
+size 415

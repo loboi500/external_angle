@@ -1,4 +1,3 @@
-monorail {
-  component: "Internals>GPU>ANGLE"
-}
-team_email: "angleproject@googlegroups.com"
+version https://git-lfs.github.com/spec/v1
+oid sha256:59e5ce61b9c9a29340dd398a61ce21bac22c0939ea8fe8ca140fe44a3556de08
+size 92
